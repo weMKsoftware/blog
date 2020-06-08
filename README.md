@@ -1,2 +1,2 @@
-# blog
-We Make Software Blog
+# We Make Software Blog
+
